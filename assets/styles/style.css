@@ -1,0 +1,45 @@
+/**
+*@Owner - Oshada Eranga
+*@Version - v0.1.0
+**/
+
+.posNavi {
+    z-index: 5;
+    width: 100%;
+    background: blueviolet;
+}
+
+.naviItems {
+    position: absolute;
+    left: 140vh !important;
+}
+
+.naviItems > li:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.home {
+    font-family: Ubuntu, serif;
+    font-size: 16px;
+}
+
+.customer{
+    font-family: Ubuntu, serif;
+    font-size: 16px;
+}
+
+.item{
+    font-family: Ubuntu, serif;
+    font-size: 16px;
+}
+
+.placeOrder{
+    font-family: Ubuntu, serif;
+    font-size: 16px;
+}
+
+.link{
+    font-family: Ubuntu, serif;
+    font-size: 17px;
+}
