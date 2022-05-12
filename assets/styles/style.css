@@ -46,6 +46,7 @@
 
 #header{
     font-family: Ubuntu, serif;
+    top: 2px;
     font-size: 31px;
-    color: rgba(246, 28, 235, 0.8);
+    color: white;
 }
